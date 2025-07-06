@@ -1,12 +1,12 @@
 ![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)
 <h1 align="center">Hi 👋, I'm Arjun Grover</h1>
-<h3 align="center">I am a passionate web developer from India</h3>
+<h3 align="center">I am a passionate backend developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjune7" alt="arjune7" /></a> </p>
 
-- 🌱 I’m currently learning **Go, Nodejs , Expressjs , MongoDb**
+- 🌱 I’m currently learning **Go, python , aws , pinecone**
 
-- 💬 Ask me about **react , node , express , go**
+- 💬 Ask me about **Python , django , django rest framework , go, gin, aws, mysql, redis, celery, kafka**
 
 - 📫 How to reach me **arjungrover947@gmail.com**
 
