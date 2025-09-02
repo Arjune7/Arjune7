@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjune7" alt="arjune7" /></a> </p>
 
-- 🌱 I’m currently learning **Go, python , aws , pinecone**
+- 🌱 I’m currently learning **Rust, python ,go , aws , pinecone**
 
-- 💬 Ask me about **Python , django , django rest framework , go, gin, aws, mysql, redis, celery, kafka**
+- 💬 Ask me about **Python , django , django rest framework , rust, go, aws, mysql, redis, celery, kafka**
 
 - 📫 How to reach me **arjungrover947@gmail.com**
 
